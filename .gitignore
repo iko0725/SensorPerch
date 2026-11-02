@@ -1,0 +1,16 @@
+.DS_Store
+# SolidWorks lock and temporary files
+~$*
+# Altium history and caches
+__Previews/
+History/
+Project Logs for */
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Outputs written by the software
+logs/
+*.log
